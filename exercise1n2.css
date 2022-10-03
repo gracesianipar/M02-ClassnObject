@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(to right, #e6e0a3, #daa520);
+}
+
+h1 {
+    font-variant: small-caps;
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+th {
+    padding: 10px;
+    padding-left: 460px;
+    border: none;
+    font-size: 30px;
+}
+
+input[type=text] {
+    padding: 8px;
+    width: 380px;
+    border-style: solid;
+    border-color: black;
+    font-size: 16px;
+}
